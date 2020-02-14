@@ -8,6 +8,9 @@ int x;
     x = x-1;
 
     printf("idade: %d\n", x);
+    x = x+1;
+     printf("idade: %d\n", x);
+    
 
     return 0;
 }
